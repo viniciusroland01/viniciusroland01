@@ -11,7 +11,7 @@ Atualmente cursando o 3º semestre de **Análise e Desenvolvimento de Sistemas**
 
 ### 🚀 Projetos em Destaque
 - **Amazon GPU Tracker:** Automação de monitoramento de preços utilizando Web Scraping e persistência de dados.
-- **Sistema de Mensagens:** Aplicação web desenvolvida com Django, focada em comunicação e deploy contínuo.
+- **Sistema de Mensagens:** Aplicação web desenvolvida com Django, focada em comunicação e deploy.
 - **Landing Pages Automatizadas:** Criação de interfaces funcionais integradas para pedidos via WhatsApp.
 
 ### 📫 Como me encontrar
