@@ -50,14 +50,6 @@ Dashboard de metas com categorias, status de conclusão e reset de dados via `se
 
 ---
 
-## Atualmente estudando
-
-Estruturas de dados em `C` — structs, alocação dinâmica, ponteiros.
-Aprofundando conhecimentos em Django e desenvolvimento web.
-Explorando automações com Python.
-
----
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-vinicius-roland-b04b91248/)
